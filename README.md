@@ -2,6 +2,7 @@
 
 #### Background
 
+- Learning about biotech and AI
 - Co-founder of [Stacks](https://www.stacks.co/)
 - Mechanical and Aerospace Engineering & Computer Science at Princeton
 - Co-founder of HackPrinceton & TigerTreks
