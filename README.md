@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m Ryan Shea.
 
-#### Background
+#### About Me
 
-- Learning about biotech and AI
+- Playing with AI and biotech
 - Co-founder of [Stacks](https://www.stacks.co/)
-- Mechanical and Aerospace Engineering & Computer Science at Princeton
-- Co-founder of HackPrinceton & TigerTreks
+- Angel investor in 10+ unicorns
+- Studied Mechanical Engineering & CS at Princeton
 
 #### Contact
 
